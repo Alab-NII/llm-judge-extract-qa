@@ -1,0 +1,15 @@
+# Ignore Python cache and logs
+__pycache__/
+*.log
+
+# Ignore output and data folders
+outputs/
+data/
+
+# Ignore system files
+.DS_Store
+.env
+
+# Ignore model checkpoints
+*.ckpt
+*.pt
