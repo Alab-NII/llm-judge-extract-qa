@@ -1,5 +1,6 @@
 # Ignore Python cache and logs
 __pycache__/
+*.pyc
 *.log
 
 # Ignore output and data folders
